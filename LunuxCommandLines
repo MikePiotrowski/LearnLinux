@@ -1,0 +1,26 @@
+Linux Command Lines:                                      F11 Makes Terminal to Full Screen
+                                                          
+1. ls (List Storage)
+2. ls -a
+3. ls -A
+4. appropos
+5. Press Q to Quit
+6. Clear
+7. exit
+8. cd ~ (Home Directory)
+9. echo $SHELL (Shows you your Bash version)
+10. which bash (Will tell you what you need to eneter) (usr/etc.)
+11. cat (Reads the text)
+12. pwd (SHows your directory)
+13. file
+14. stat
+15.  ~/Documents  Example: will show you your directory: bash: /home/fireloks/Documents/:   (Is a directory
+16. Absolute paths start with a slash (/); Relative paths do not.
+17. cd .. (Move back a Directory)
+18. Example going back mutiple directories: cd ../../finance/Documents
+19. cd - (Used for switching between directories, or a directory and back)
+20. CD (Back to directory I was in
+21. awk (dockingt at a page) wants numbers and gives it a delimeter
+22. Var (various shit)
+23. grep and piping (Global regular expression print)
+24. ps

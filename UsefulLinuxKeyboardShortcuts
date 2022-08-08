@@ -1,0 +1,16 @@
+1. Press Tab to complete a word
+2. CTRL C to Cancel a command
+3. Press Tab twice if a word won't complete itself to show you a list of possible words
+4. Pressing space twice after a space will treat it like an argument
+5. CTRL-A Move to the beginning of the line
+6. CTRL-E Move to the end of the line
+7. CTRL-Left arrow moves one word to the left
+8. CTRL-Right arrow moves one word to the right
+9. CTRL-U Delete from cursor to line start (Deletes the whole line)
+10. CTRL-K Deletes from cursor to line end
+11. CTRL-Shift C Copy selected text to clipboard
+12. CTRL-Shift Z paste text to clipboard
+13. CTRL-R Search command history
+14. CTRL-C Cancel command
+15. CTRL-X Exits out
+16. 
